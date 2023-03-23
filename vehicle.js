@@ -91,10 +91,3 @@ class Vehicle {
 module.exports = {
     Vehicle
 }
-class Car extends Vehicle {
-    constructor(name, maximumPassengers, passengers, numberOfWheels, maximumSpeed, fuel, scheduleService) {
-        super(make, model, year, color, mileage)
-        
-    }
-}
-   
